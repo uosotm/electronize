@@ -20,7 +20,7 @@
     "babel-core": "^6.20.0",
     "babel-loader": "^6.2.10",
     "babel-preset-env": "^1.1.1",
-    "electron": "^1.4.12",
+    "electron": "^9.4.0",
     "eslint": "^4.18.2",
     "html-webpack-plugin": "^2.24.1",
     "webpack": "^1.14.0"
